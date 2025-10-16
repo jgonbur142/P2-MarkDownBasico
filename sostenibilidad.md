@@ -15,5 +15,16 @@ recursos ni causar ningún tipo de daño.
  | Trabajo decente y crecimiento económico | Igualdad de género | Producción y consumo responsables |
  | ----- | ----- | ----- |
  | La informática es un sector en constante evolución y desarrollo, que siempre trae nuevas oporunidades laborales y económicas. | En el sector de la informática cualquier persona es capaz de realizar el trabajo deseado, independientemente de su sexo | La informática nos permite reutilizar componentes y equipos a lo largo del tiempo, permitiéndo que les proporcionemos una segunda vida útil. |
- 
+
+ ![ODS](/assets/ods.png)
+
+  * [X] Reducir el consumo de energía.
+  * [X] Desconectar equipos que no se esténn usando.
+  * [X] Ajustar la configuración de los equipos.
+  * [X] Priorizar la eficiencia.
+  * [X] Compartir equipos con más usuarios.
+  * [X] Uso de la nube.
+  * [ ] Reciclar residuos electrónicos.
+  * [ ] Fomentar el teletrabajo.
+  * [ ] Optimizar código programado.
   
